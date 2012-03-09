@@ -1,0 +1,10 @@
+This repository contains javascripts that I use on various
+websites for dynamic behavior. They are split into component
+parts (such as Google Maps). They rely pretty heavily on 
+jQuery, jQueryUI, and the Google Maps API v3 where relevant.
+
+They have been/are used on production websites including:
+http://anf.ucsd.edu
+http://eqinfo.ucsd.edu
+
+More information on me: http://eqinfo.ucsd.edu/~rnewman
